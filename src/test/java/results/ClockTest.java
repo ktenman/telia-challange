@@ -24,5 +24,7 @@ public class ClockTest {
         assertEquals(248, clock.degreeBetweenClockHands(0, 45));
         assertEquals(248, clock.degreeBetweenClockHands(24, 45));
         assertEquals(50, clock.degreeBetweenClockHands(14, 20));
+        assertEquals(7, clock.degreeBetweenClockHands(3, 15));
+        assertEquals(75, clock.degreeBetweenClockHands(20, 30));
     }
 }
