@@ -1,4 +1,4 @@
 # telia-challange
 Find out degree between clock hands.
 
-![clock](https://i.ytimg.com/vi/cp7LvAhC3i0/maxresdefault.jpg)
+![clock](http://s020.radikal.ru/i704/1604/4d/0e24a4b39d9e.png)
